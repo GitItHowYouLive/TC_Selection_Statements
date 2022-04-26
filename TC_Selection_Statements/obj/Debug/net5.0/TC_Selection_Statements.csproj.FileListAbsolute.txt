@@ -1,0 +1,16 @@
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\bin\Debug\net5.0\TC_Selection_Statements.exe
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\bin\Debug\net5.0\TC_Selection_Statements.deps.json
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\bin\Debug\net5.0\TC_Selection_Statements.runtimeconfig.json
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\bin\Debug\net5.0\TC_Selection_Statements.runtimeconfig.dev.json
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\bin\Debug\net5.0\TC_Selection_Statements.dll
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\bin\Debug\net5.0\TC_Selection_Statements.pdb
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.csproj.AssemblyReference.cache
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.AssemblyInfoInputs.cache
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.AssemblyInfo.cs
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.csproj.CoreCompileInputs.cache
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.dll
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\refint\TC_Selection_Statements.dll
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.pdb
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\TC_Selection_Statements.genruntimeconfig.cache
+C:\Users\Terrence\Desktop\Repos\TC_Selection_Statements\TC_Selection_Statements\obj\Debug\net5.0\ref\TC_Selection_Statements.dll
